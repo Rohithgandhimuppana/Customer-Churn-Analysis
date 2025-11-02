@@ -1,10 +1,10 @@
-#Telco_Customer_Churn_Analysis
+# Telco_Customer_Churn_Analysis
 
-##Dataset
+## Dataset
 
 "Predict behavior to retain customers. You can analyze all relevant customer data and develop focused customer retention programs." [IBM Sample Data Sets] https://www.kaggle.com/blastchar/telco-customer-churn Each row represents a customer, each column contains customer’s attributes described on the column Metadata. The raw data contains 7043 rows (customers) and 21 columns (features). The “Churn” column is our target.
 
-![Alt Text](powerbi/Screenshot 2025-11-02 150358.png)
+![Alt Text](powerbi/dashboard.png)
 
 ## Key Insights for Presentation
 
@@ -19,7 +19,7 @@
 9) 26.5% of customers churned
 10) Loyal Customers = Long Tenure > 24, services > 2, less churn
 
-##Recommendations
+## Recommendations
 
 1) Offer longer-term contracts with incentives (e.g., discounts, free months) to convert month-to-month customers to 1-year or 2-year contracts.
 2) Promote family-oriented plans and bundled offers to single customers to increase engagement.
